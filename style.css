@@ -1,0 +1,19 @@
+h1 {
+    background-color: rgb(225, 146, 19);
+}
+h3 {
+    background-color: rgb(0, 255, 229);
+}
+div {
+    background-color: rgb(160, 164, 164);
+}
+ol {
+    color: rgb(0, 255, 229);
+}
+input{
+    background-color: lightblue;
+    color: rgb(0, 0, 0);
+}
+textarea{
+    background-color: lightblue;
+}
